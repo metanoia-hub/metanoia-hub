@@ -8,7 +8,7 @@ A map of connected undertakings, all asking one question: how far, how well roun
 
 - **[Mtelos](https://metanoia-hub.github.io/mtelos/)** — start here. A shared, constantly updated library of what works on the ground, gathered by institutions and by people themselves, reachable by anyone, in their own language.
 - **[The Secret Manifesto](https://ma-om.windsofchange.world/)** — creating radically innovative ecosystems: the people who know, the places, and the knowledge they stand on.
-- **[The Vault](https://thevault.windsofchange.world/)** — 19 deep dives into rethinking life. Bring a source, an idea, or a question we have missed.
+- **[The Vault](https://thevault.windsofchange.world/)** — 23 deep dives into rethinking life. Bring a source, an idea, or a question we have missed.
 - **[Wild Horse](https://github.com/metanoia-hub/wild-horse)** — open. AI's wild performance swings: an open investigation into why AI models do brilliant work, then suddenly don't.
 - **[Weekly Conversations](https://metanoia-hub.github.io/weekly-conversations/)** — open. Scientists, CEOs and builders, meeting online every week.
 - **The First Group** — opening soon. The first step towards a group of people actively researching a different way of life, from next summer.

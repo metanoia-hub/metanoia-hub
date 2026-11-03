@@ -12,9 +12,10 @@
 <line x1="400" y1="290" x2="228" y2="163" stroke="#2a8a8a" stroke-width="2.5"/>
 </g>
 <circle cx="400" cy="290" r="88" fill="#fff6e0" stroke="#c9962b" stroke-width="3"/>
-<text x="400" y="288" text-anchor="middle" font-size="26" fill="#24231f">Metanoia</text>
-<text x="400" y="312" text-anchor="middle" font-size="15" fill="#4a473f">The Foundation</text>
-<text x="400" y="331" text-anchor="middle" font-size="15" fill="#4a473f">in Becoming</text>
+<text x="400" y="272" text-anchor="middle" font-size="27" fill="#24231f">Μετάνοια</text>
+<text x="400" y="294" text-anchor="middle" font-size="14" fill="#4a473f">Metanoia</text>
+<text x="400" y="320" text-anchor="middle" font-size="15" fill="#4a473f">The Foundation</text>
+<text x="400" y="338" text-anchor="middle" font-size="15" fill="#4a473f">in Becoming</text>
 <g text-anchor="middle">
 <rect x="275" y="40" width="250" height="72" rx="9" fill="#f6e3d8" stroke="#9a4a26" stroke-width="2"/><text x="400" y="70" font-size="21" fill="#24231f">Mtelos · Start Here</text><text x="400" y="96" font-size="15" fill="#4a473f">The knowledge library</text>
 <rect x="407" y="127" width="310" height="72" rx="9" fill="#e3ecf8" stroke="#3d6aa8" stroke-width="2"/><text x="562" y="157" font-size="21" fill="#24231f">The Secret Manifesto</text><text x="562" y="183" font-size="15" fill="#4a473f">Creating Radically Innovative Ecosystems</text>

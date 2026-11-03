@@ -10,7 +10,7 @@ A map of connected undertakings, all asking one question: how far, how well roun
 - **[Manifesto](https://ma-om.windsofchange.world/)** — why we do this: the people who know, the places, and the knowledge they stand on.
 - **[The Vault](https://thevault.windsofchange.world/)** — the collection behind the work. Bring a source, an idea, or a question we have missed.
 - **[Wild Horse](https://github.com/metanoia-hub/wild-horse)** — open. An open investigation into why AI models do brilliant work, then suddenly don't.
-- **Weekly Conversations** — opening soon. Scientists, CEOs and builders, meeting online every week.
+- **[Weekly Conversations](https://metanoia-hub.github.io/weekly-conversations/)** — open. Scientists, CEOs and builders, meeting online every week.
 - **The First Group** — opening soon. The first step towards a group of people actively researching a different way of life, from next summer.
 - **w0rk~fl0w** — opening soon. Start from the outcome, not the to-do list.
 

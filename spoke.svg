@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="t d" font-family="Georgia, 'Times New Roman', serif">
+<title id="t">Where to go</title>
+<desc id="d">Metanoia in the centre, with seven doors: Mtelos, Manifesto, The Vault, Wild Horse, Weekly Conversations, The First Group, w0rk~fl0w.</desc>
+<rect width="800" height="560" rx="14" fill="#f6f3ec"/>
+<g stroke="#c9c3b4" stroke-width="1.5">
+<line x1="400" y1="290" x2="400" y2="76"/>
+<line x1="400" y1="290" x2="572" y2="163"/>
+<line x1="400" y1="290" x2="614" y2="349"/>
+<line x1="400" y1="290" x2="520" y2="498"/>
+<line x1="400" y1="290" x2="280" y2="498"/>
+<line x1="400" y1="290" x2="186" y2="349"/>
+<line x1="400" y1="290" x2="228" y2="163"/>
+</g>
+<circle cx="400" cy="290" r="82" fill="#fffdf8" stroke="#24231f"/>
+<text x="400" y="288" text-anchor="middle" font-size="25" fill="#24231f">Metanoia</text>
+<text x="400" y="314" text-anchor="middle" font-size="16" fill="#5d5a52">The whole map</text>
+<g text-anchor="middle">
+<rect x="275" y="40" width="250" height="72" rx="9" fill="#f6e3d8" stroke="#9a4a26" stroke-width="1.5"/><text x="400" y="70" font-size="21" fill="#24231f">Mtelos · Start Here</text><text x="400" y="96" font-size="15" fill="#5d5a52">The knowledge library</text>
+<rect x="457" y="127" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/><text x="572" y="157" font-size="21" fill="#24231f">Manifesto</text><text x="572" y="183" font-size="15" fill="#5d5a52">Why we do this</text>
+<rect x="499" y="313" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/><text x="614" y="343" font-size="21" fill="#24231f">The Vault</text><text x="614" y="369" font-size="15" fill="#5d5a52">Bring sources and ideas</text>
+<rect x="405" y="462" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5" stroke-dasharray="5 4"/><text x="520" y="492" font-size="21" fill="#24231f">Wild Horse</text><text x="520" y="518" font-size="15" fill="#5d5a52">How reliable is AI?</text>
+<rect x="165" y="462" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5" stroke-dasharray="5 4"/><text x="280" y="492" font-size="21" fill="#24231f">Weekly Conversations</text><text x="280" y="518" font-size="15" fill="#5d5a52">Scientists and CEOs</text>
+<rect x="71" y="313" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5" stroke-dasharray="5 4"/><text x="186" y="343" font-size="21" fill="#24231f">The First Group</text><text x="186" y="369" font-size="15" fill="#5d5a52">Live it, from next summer</text>
+<rect x="113" y="127" width="230" height="72" rx="9" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5" stroke-dasharray="5 4"/><text x="228" y="157" font-size="21" fill="#24231f">w0rk~fl0w</text><text x="228" y="183" font-size="15" fill="#5d5a52">Find your next step</text>
+</g></svg>
